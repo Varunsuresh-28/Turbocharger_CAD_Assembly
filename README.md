@@ -1,24 +1,10 @@
-# Turbocharger CAD Assembly
-**Tools:** Siemens NX | **Timeline:** February 2026 – Present
-
-## Overview
-Multi-stage turbocharger designed to understand the mechanical integration of high-speed turbine and compressor systems.
-
-## Key Work
-- Advanced Assembly Constraints and Synchronous Modeling for complex housing geometries and precise rotational clearances
-- ASME-standard technical documentation with GD&T callouts and orthographic projections
-- DFM review of housing geometry to minimize machined surface complexity and reduce fixturing requirements
-
-## Images
-
-### Key Components Modeled
 
 - **Compressor Housing**: intake-side volute enclosing the compressor wheel and directing pressurized air to the outlet
 
 ![Compressor Housing — Left View](./compressor-housing-left.png)
 ![Compressor Housing — Right View](./compressor-housing-right.png)
 
-> ASME-standard orthographic projection with GD&T callouts for volute geometry and outlet fit tolerances
+> Technical Documentation
 ![Compressor Housing Drawing](./compressor-housing-drawing.png)
 
 ---
@@ -27,7 +13,7 @@ Multi-stage turbocharger designed to understand the mechanical integration of hi
 
 ![Compressor Wheel](./compressor-wheel.png)
 
-> Section view detailing blade profile and bore fit tolerances
+> Technical Documentation
 ![Compressor Wheel Drawing](./compressor-wheel-drawing.png)
 
 ---
@@ -36,7 +22,7 @@ Multi-stage turbocharger designed to understand the mechanical integration of hi
 
 ![Center Bearing Housing](./bearing-housing.png)
 
-> Section view with GD&T callouts for oil gallery geometry and bearing seat clearances
+> Technical Documentation
 ![Bearing Housing Drawing](./bearing-housing-drawing.png)
 
 ---
@@ -45,7 +31,7 @@ Multi-stage turbocharger designed to understand the mechanical integration of hi
 
 ![Shaft](./shaft.png)
 
-> Orthographic projection with fit and tolerance specifications for journal bearing surfaces
+> Technical Documentation
 ![Shaft Drawing](./shaft-drawing.png)
 
 ---
@@ -54,7 +40,7 @@ Multi-stage turbocharger designed to understand the mechanical integration of hi
 
 ![Turbine Wheel](./turbine-wheel.png)
 
-> Section view detailing blade geometry and shaft interface tolerances
+> Technical Documentation
 ![Turbine Wheel Drawing](./turbine-wheel-drawing.png)
 
 ---
@@ -63,17 +49,6 @@ Multi-stage turbocharger designed to understand the mechanical integration of hi
 
 ![Turbine Housing](./turbine-housing.png)
 
-> Section view with GD&T callouts for inlet geometry and turbine wheel clearances
+> Technical Documentation
 ![Turbine Housing Drawing](./turbine-housing-drawing.png)
-
----
-
-### Full Assembly
-> Housing rendered transparent to expose internal shaft, bearing, and wheel geometry
-
-![Full Assembly](./full-assembly.png)
-
-### Bill of Materials
-> Full structured BOM with part numbers, descriptions, and quantities for all components in the assembly.
-
-![BOM](./bom.png)
+```
