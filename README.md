@@ -1,3 +1,17 @@
+# Turbocharger CAD Assembly
+**Tools:** Siemens NX | **Timeline:** February 2026 – Present
+
+## Overview
+Multi-stage turbocharger designed to understand the mechanical integration of high-speed turbine and compressor systems.
+
+## Key Work
+- Advanced Assembly Constraints and Synchronous Modeling for complex housing geometries and precise rotational clearances
+- ASME-standard technical documentation with GD&T callouts and orthographic projections
+- DFM review of housing geometry to minimize machined surface complexity and reduce fixturing requirements
+
+## Images
+
+### Key Components Modeled
 
 - **Compressor Housing**: intake-side volute enclosing the compressor wheel and directing pressurized air to the outlet
 
