@@ -28,7 +28,7 @@ Multi-stage turbocharger designed to understand the mechanical integration of hi
 ![Compressor Wheel](./compressor-wheel.png)
 
 > Technical Documentation
-![Compressor Wheel Drawing](./compressor-wheel-drawing.png)
+![Compressor Wheel Drawing](./compressor-wheel-drawing_.png)
 
 ---
 
